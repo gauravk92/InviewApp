@@ -1,8 +1,7 @@
+# InviewApp
 
-## Build
+An iOS App for playing ads in uber
 
-xcodebuild -scheme moneyapp archive -archivePath $TMPDIR/test.xcarchive -workspace moneyapp.xcworkspace
+![Snapchat Ad]()
 
-xcodebuild -exportArchive -exportFormat ipa -archivePath $TMPDIR/test.xcarchive -exportPath $TMPDIR/test.ipa -exportProvisioningProfile "iOS Team Provisioning Profile: inviewads.testIA"
-
-
+![Target Ad]()
